@@ -2,6 +2,8 @@
 
 - [Install Ubuntu Server on a Raspberry Pi](install-ubuntu-server.md)
 
+- [Install Ubuntu 22.04 on a VM](install-ubuntu-on-vm.md)
+
 - [Install ROS2 Humble on Ubuntu 22.04](install-ros2-humble.md)
 
 - [Install Colcon, the ROS2 Build Tool](install-colcon.md)
